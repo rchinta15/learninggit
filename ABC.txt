@@ -1,1 +1,2 @@
-B - My first picture
+A - My first picture
+B - My second picture
